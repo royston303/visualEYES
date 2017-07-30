@@ -6,6 +6,6 @@ http://www.guinnessworldrecords.com/world-records/425713-most-contributions-to-a
 
 Through social media and the vivid app - we will invite users to take part in this - gaining traction to our app and display that involves the use of the many datasets.
 
-Hackerpsace link: https://2017.hackerspace.govhack.org/project/visualeyes
+[Hackerpsace link](https://2017.hackerspace.govhack.org/project/visualeyes)
 
-Pitch video: 
+[Pitch video]( )
